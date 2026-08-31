@@ -1,4 +1,4 @@
-=======
+
 # 👨‍💻 Ramesh S — Personal Portfolio
 
 <p align="center">
