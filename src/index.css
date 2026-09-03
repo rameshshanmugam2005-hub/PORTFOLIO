@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-display: 'Syne', 'Outfit', 'Plus Jakarta Sans', sans-serif;
+    --font-stylish: 'Syne', sans-serif;
+    --font-tech: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    --font-serif-luxury: 'Playfair Display', Georgia, serif;
+    --font-modern-display: 'Bricolage Grotesque', 'Outfit', sans-serif;
+    --font-outfit: 'Outfit', sans-serif;
+  }
+}
+
+html {
+  font-family: var(--font-sans);
+  scroll-behavior: smooth;
+  background-color: #030712;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.font-stylish {
+  font-family: var(--font-stylish);
+  letter-spacing: -0.03em;
+}
+
+.font-tech {
+  font-family: var(--font-tech);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-serif-luxury {
+  font-family: var(--font-serif-luxury);
+}
+
+.font-modern-display {
+  font-family: var(--font-modern-display);
+  letter-spacing: -0.02em;
+}
+
+.font-outfit {
+  font-family: var(--font-outfit);
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-display);
+  letter-spacing: -0.025em;
+}
+
+code, pre, .font-mono {
+  font-family: var(--font-mono);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #030712;
+}
+
+.light ::-webkit-scrollbar-track {
+  background: rgba(241, 245, 249, 0.8);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(59, 130, 246, 0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(147, 51, 234, 0.5);
+}
+
+/* Subtle grid backdrop */
+.bg-grid-pattern {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+}
+
+.light .bg-grid-pattern {
+  background-image: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.04) 1px, transparent 1px);
+}
+
+/* Glassmorphism helpers - Elegant Dark */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.light .glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.glass-nav {
+  background: rgba(3, 7, 18, 0.75);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.light .glass-nav {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  #resume-modal-overlay {
+    position: static !important;
+    background: white !important;
+    padding: 0 !important;
+  }
+  #resume-modal-overlay > div {
+    border: none !important;
+    box-shadow: none !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  #printable-resume-sheet {
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  button, nav, footer, #resume-modal-overlay button {
+    display: none !important;
+  }
+}
+
+
