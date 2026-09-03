@@ -140,7 +140,11 @@ export const SKILL_CATEGORIES = [
         description: "Branching strategies, pull requests, semantic version control, code review, and collaborative repos"
       },
       {
+<<<<<<< HEAD
         name: "Cloud Deployment & Production Hosting",
+=======
+        name: "Cloud Deployment (Render / Vercel)",
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
         iconName: "CloudSun",
         description: "Automated continuous deployment, environment config, web server hosting, and production build pipelines"
       },
@@ -172,7 +176,11 @@ export const FEATURED_PROJECTS = [
       "CSS3 & Responsive Grid",
       "QR Code Verification",
       "Asynchronous Polling",
+<<<<<<< HEAD
       "Cloud Infrastructure & CI/CD"
+=======
+      "Render Cloud"
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
     ],
     keyFeatures: [
       "Real-Time Telemetry Engine: Dynamic tracking of active transit routes and vehicle ETA with optimized polling",
@@ -181,7 +189,11 @@ export const FEATURED_PROJECTS = [
       "QR Ticket Validation: Seamless verification for digital transit boarding passes with turnstile validation",
       "Bandwidth-Optimized Protocol: Lightweight JSON payload serialization ensuring low mobile latency"
     ],
+<<<<<<< HEAD
     myContribution: "Architected and engineered the full-stack web platform from scratch. Designed responsive UI layouts, asynchronous client-server telemetry polling, Express REST endpoints, AI commuter assistant integration, and continuous automated production cloud deployment.",
+=======
+    myContribution: "Architected and engineered the full-stack web platform from scratch. Designed responsive UI layouts, asynchronous client-server telemetry polling, Express REST endpoints, AI commuter assistant integration, and continuous production deployment on Render.",
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
     featured: true,
     caseStudy: {
       problem: "Public transit riders face significant uncertainty regarding actual bus arrival times, vehicle overcrowding, and optimal transfer points. Traditional static timetables fail to account for traffic delays and sudden route modifications.",
@@ -192,7 +204,11 @@ export const FEATURED_PROJECTS = [
         "Semantic HTML5 for accessible and structured layouts",
         "Modern CSS3 (Flexbox, Grid, CSS Variables) for responsive styling",
         "Fetch API for asynchronous REST data exchange",
+<<<<<<< HEAD
         "Scalable Cloud Platform for production hosting & automated continuous deployment"
+=======
+        "Render Cloud Platform for production hosting & continuous deployment"
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
       ],
       keyFeatures: [
         "Live route map and telemetry tracking with instant delay estimations",
@@ -207,7 +223,11 @@ export const FEATURED_PROJECTS = [
         "Implementing seamless QR validation flows with instantaneous visual feedback"
       ],
       solution: "Implemented debounced asynchronous polling with delta updates, cutting unnecessary network requests by 60%. Used fluid CSS grid and flex layouts to maintain crisp visual hierarchy on screens of all sizes.",
+<<<<<<< HEAD
       result: "Successfully built and deployed a production-ready application hosted live in the cloud, accessible across desktop and mobile devices with zero lag and high accessibility scores.",
+=======
+      result: "Successfully built and deployed a production-ready application hosted live on Render, accessible across desktop and mobile devices with zero lag and high accessibility scores.",
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
       futureImprovements: [
         "Progressive Web App (PWA) service worker integration for offline route caching",
         "WebSocket streaming for sub-second telemetry updates",
@@ -318,7 +338,11 @@ export const ACHIEVEMENTS = [
     id: "transit-ai-deploy",
     title: "Built & Deployed Transit AI",
     category: "Deployment",
+<<<<<<< HEAD
     description: "Engineered and deployed a full-stack real-time transit web application in live cloud production with interactive bus telemetry, AI assistant logic, and QR validation.",
+=======
+    description: "Engineered and deployed a full-stack real-time transit web application on Render with interactive bus telemetry, AI assistant logic, and QR validation.",
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
     highlight: "Live Production Deployment"
   },
   {

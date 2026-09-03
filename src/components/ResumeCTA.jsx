@@ -67,7 +67,11 @@ export const ResumeCTA = ({ onOpenResumeModal }) => {
                 className="inline-flex items-center gap-2 px-5 py-3.5 rounded-full text-sm font-semibold bg-white/5 text-slate-200 border border-white/10 hover:bg-white/10 hover:text-white transition-all cursor-pointer"
               >
                 <Eye className="w-4 h-4 text-blue-400" />
+<<<<<<< HEAD
                 <span>View Original PDF</span>
+=======
+                <span>ATS Preview</span>
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
               </button>
 
               <a

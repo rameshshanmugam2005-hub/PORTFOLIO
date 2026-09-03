@@ -110,12 +110,18 @@ export const About = () => {
                 {/* Photo Frame */}
                 <div className="relative rounded-2xl overflow-hidden border border-white/15 bg-black/60 shadow-xl group-hover:border-blue-500/40 transition-all duration-300">
                   <img
+<<<<<<< HEAD
                     src="/profile.jpg"
                     alt="Ramesh S - Software Engineer"
                     referrerPolicy="no-referrer"
                     onError={(e) => {
                       e.currentTarget.src = "/ramesh_photo.png";
                     }}
+=======
+                    src="/ramesh_photo.png"
+                    alt="Ramesh S - Frontend & Web Developer"
+                    referrerPolicy="no-referrer"
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
                     className="w-full h-auto object-cover max-h-[460px] transform group-hover:scale-[1.01] transition-transform duration-500"
                   />
                   

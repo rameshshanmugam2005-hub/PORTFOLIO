@@ -10,8 +10,12 @@ import {
   Code2, 
   ExternalLink,
   Sparkles,
+<<<<<<< HEAD
   Mail,
   FileText
+=======
+  Mail
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
 } from 'lucide-react';
 
 export const Navbar = ({ onOpenResumeModal }) => {
@@ -114,7 +118,11 @@ export const Navbar = ({ onOpenResumeModal }) => {
             })}
           </nav>
 
+<<<<<<< HEAD
           {/* Actions: Theme Toggle, Resume PDF badge & Hire Me CTA */}
+=======
+          {/* Actions: Theme Toggle, ATS badge & Hire Me CTA */}
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
           <div className="hidden sm:flex items-center gap-2.5">
             {/* Theme Toggle */}
             <button
@@ -130,6 +138,7 @@ export const Navbar = ({ onOpenResumeModal }) => {
               )}
             </button>
 
+<<<<<<< HEAD
             {/* Resume PDF Badge */}
             <button
               id="nav-resume-btn"
@@ -139,6 +148,15 @@ export const Navbar = ({ onOpenResumeModal }) => {
             >
               <FileText className="w-3.5 h-3.5 text-blue-400" />
               <span>Resume PDF</span>
+=======
+            {/* ATS Resume Badge */}
+            <button
+              id="nav-ats-btn"
+              onClick={onOpenResumeModal}
+              className="px-3.5 py-1.5 rounded-full text-xs font-mono font-bold text-slate-300 bg-indigo-950/60 border border-indigo-500/30 hover:bg-indigo-900/60 hover:text-white transition-all cursor-pointer"
+            >
+              ATS
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
             </button>
 
             {/* Hire Me CTA Button */}

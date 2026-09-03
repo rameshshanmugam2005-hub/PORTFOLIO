@@ -117,7 +117,11 @@ export const Contact = () => {
                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
                   </div>
                   <div className="text-[10px] font-mono text-slate-400">
+<<<<<<< HEAD
                     Software Engineer & Full-Stack Developer • Ready to Join
+=======
+                    Frontend Developer • Ready to Join
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
                   </div>
                 </div>
               </div>

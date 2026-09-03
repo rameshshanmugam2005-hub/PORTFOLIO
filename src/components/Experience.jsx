@@ -93,6 +93,7 @@ export const Experience = () => {
             </div>
           ))}
 
+<<<<<<< HEAD
           {/* Professional Engineering Practices Showcase */}
           <div className="pt-4">
             <div className="p-6 sm:p-7 rounded-2xl bg-gradient-to-br from-blue-950/20 via-slate-900/30 to-purple-950/20 border border-white/10 backdrop-blur-xl">
@@ -141,6 +142,39 @@ export const Experience = () => {
                 </div>
               </div>
             </div>
+=======
+          {/* Optional Placeholder Slots Section */}
+          <div className="pt-4 flex flex-col items-center">
+            {!showAddPlaceholder ? (
+              <button
+                id="toggle-placeholder-slots-btn"
+                onClick={() => setShowAddPlaceholder(true)}
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-medium text-slate-400 hover:text-white bg-white/5 border border-dashed border-white/10 hover:border-blue-400/40 transition-all cursor-pointer"
+              >
+                <PlusCircle className="w-4 h-4" />
+                <span>View Placeholder Slots for Future Trainings / Workshops</span>
+              </button>
+            ) : (
+              <div className="w-full p-5 rounded-2xl border border-dashed border-white/10 bg-white/[0.02] space-y-3">
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-mono text-slate-400">
+                    [Editable Slot: Additional Training / Workshop / Technical Event]
+                  </span>
+                  <button
+                    onClick={() => setShowAddPlaceholder(false)}
+                    className="text-xs text-slate-400 hover:text-white cursor-pointer"
+                  >
+                    Hide
+                  </button>
+                </div>
+                <div className="p-3 rounded-xl bg-white/5 text-xs text-slate-300">
+                  <div className="font-semibold text-white">[Role / Training Name]</div>
+                  <div className="text-slate-400">[Organization / Platform] • [Date / Period]</div>
+                  <p className="mt-1 text-[11px] text-slate-400">[Add details of technical workshops, hackathons or additional internships here]</p>
+                </div>
+              </div>
+            )}
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
           </div>
 
         </div>

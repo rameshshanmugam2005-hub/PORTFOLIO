@@ -39,7 +39,11 @@ export const Profiles = () => {
         </div>
 
         {/* Profiles Grid */}
+<<<<<<< HEAD
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto mb-16">
+=======
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
           {SOCIAL_PROFILES.map((profile, idx) => {
             const Icon = getIcon(profile.iconName);
             return (
@@ -88,6 +92,7 @@ export const Profiles = () => {
           })}
         </div>
 
+<<<<<<< HEAD
         {/* LeetCode & GitHub Activity Deep-Dive Showcase */}
         <div className="max-w-5xl mx-auto p-6 sm:p-8 rounded-3xl bg-white/[0.03] border border-white/10 backdrop-blur-xl shadow-2xl">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-white/10">
@@ -190,6 +195,8 @@ export const Profiles = () => {
           </div>
         </div>
 
+=======
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
       </div>
     </section>
   );

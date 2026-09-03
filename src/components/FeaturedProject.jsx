@@ -24,10 +24,14 @@ import {
   Zap,
   ShieldCheck,
   Compass,
+<<<<<<< HEAD
   Info,
   Server,
   Terminal,
   Code2
+=======
+  Info
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
 } from 'lucide-react';
 
 export const FeaturedProject = () => {
@@ -365,6 +369,7 @@ export const FeaturedProject = () => {
                       <QrCode className="w-3.5 h-3.5" />
                       <span>QR Boarding Pass</span>
                     </button>
+<<<<<<< HEAD
 
                     <button
                       id="sim-tab-architecture"
@@ -378,6 +383,8 @@ export const FeaturedProject = () => {
                       <Layers className="w-3.5 h-3.5" />
                       <span>Architecture & REST APIs</span>
                     </button>
+=======
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
                   </div>
 
                   {/* Tab 1: Visual Image Stimulation & Interactive Hotspots */}
@@ -659,6 +666,7 @@ export const FeaturedProject = () => {
                     </div>
                   )}
 
+<<<<<<< HEAD
                   {/* Tab 5: Architecture & REST APIs Showcase */}
                   {activeSimTab === 'architecture' && (
                     <div className="p-6 sm:p-8 space-y-6 animate-in fade-in duration-200">
@@ -739,11 +747,17 @@ export const FeaturedProject = () => {
                     </div>
                   )}
 
+=======
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
                   {/* Bottom Footer inside simulator */}
                   <div className="p-4 bg-slate-950 border-t border-white/10 flex items-center justify-between flex-wrap gap-2 text-xs">
                     <span className="text-[11px] font-mono text-slate-400 flex items-center gap-1.5">
                       <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
+<<<<<<< HEAD
                       Production Server Live • Continuous Uptime & High Availability
+=======
+                      Production Server Running on Render Cloud
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
                     </span>
                     
                     <div className="flex items-center gap-3">

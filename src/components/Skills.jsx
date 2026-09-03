@@ -84,6 +84,7 @@ export const Skills = () => {
         "Data Integrity & ACID: Structured transactions and query performance tuning",
         "Clean Code Standards: Separation of concerns, design patterns, and maintainability"
       ]
+<<<<<<< HEAD
     },
     devops: {
       title: "Cloud Infrastructure & Tooling",
@@ -99,6 +100,8 @@ export const Skills = () => {
         "Linux & Shell Scripting: Command line navigation, package orchestration, and server logs",
         "Production Security: Environment variable encapsulation and SSL/HTTPS encryption"
       ]
+=======
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
     }
   };
 
@@ -170,6 +173,7 @@ export const Skills = () => {
                 <Database className="w-3.5 h-3.5" />
                 <span>Databases & Logic</span>
               </button>
+<<<<<<< HEAD
 
               <button
                 onClick={() => setActivePillarTab('devops')}
@@ -182,6 +186,8 @@ export const Skills = () => {
                 <Wrench className="w-3.5 h-3.5" />
                 <span>Cloud & DevOps</span>
               </button>
+=======
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
             </div>
           </div>
 
@@ -297,6 +303,7 @@ export const Skills = () => {
           })}
         </div>
 
+<<<<<<< HEAD
         {/* Optimistic Engineering Execution Strengths Strip */}
         <div className="mt-12 p-6 rounded-2xl bg-gradient-to-r from-blue-500/10 via-purple-500/10 to-emerald-500/10 border border-white/10 backdrop-blur-md">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
@@ -326,6 +333,10 @@ export const Skills = () => {
 
         {/* Footer Banner */}
         <div className="mt-8 text-center">
+=======
+        {/* Footer Banner */}
+        <div className="mt-12 text-center">
+>>>>>>> 51cb539543f58e1137bbcba2687bedee4d2b2016
           <div className="inline-flex items-center gap-2 px-5 py-3 rounded-2xl bg-white/5 border border-white/10 text-xs sm:text-sm text-slate-300 font-medium shadow-sm">
             <Sparkles className="w-4 h-4 text-blue-400 animate-pulse" />
             <span>Passionate about writing modular code, scalable REST APIs, and responsive web systems.</span>
