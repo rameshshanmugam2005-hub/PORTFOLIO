@@ -1,189 +1,272 @@
-# 👋 Hi, I'm Ramesh S
+<div align="center">
 
-### 🚀 Software Engineer • Full-Stack Developer • Problem Solver
+# 👋 Hi, I'm **Ramesh S**
 
-<p align="center">
+### 🚀 Software Engineer | Full-Stack Developer | Problem Solver
+
+<p>
   <a href="https://rameshportfolio-sooty.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-000000?style=for-the-badge" alt="Live Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-Visit%20Now-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://github.com/rameshshanmugam2005-hub">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center">
-  <b>Building modern, responsive, and user-focused digital experiences.</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+
+</div>
 
 ---
 
-## ✨ About Me
+## 🧑‍💻 About Me
 
-I'm **Ramesh S**, a Computer Science Engineering student and aspiring **Software Engineer / Full-Stack Developer** passionate about turning ideas into practical, scalable, and visually engaging applications.
+> **I don't just write code — I build solutions.**
 
-I enjoy working across the development lifecycle — from designing interfaces and building frontend experiences to developing backend logic, integrating APIs, managing data, and deploying applications.
+I'm **Ramesh S**, a Computer Science Engineering student and aspiring **Software Engineer / Full-Stack Developer** passionate about building practical, responsive, and user-focused applications.
 
-### 🎯 What I Focus On
+I enjoy transforming ideas into working products — from **design and frontend development to APIs, application logic, deployment, and continuous improvement**.
 
-* 💻 Writing clean, maintainable, and scalable code
-* ⚛️ Building modern web applications
-* 🧠 Improving problem-solving and algorithmic thinking
-* 🎨 Creating responsive and intuitive user interfaces
-* 🔌 Working with APIs and application integrations
-* 🚀 Deploying and maintaining production-ready applications
-* 📚 Continuously learning new technologies and development practices
+### ⚡ Currently
 
----
-
-# 🌐 My Portfolio
-
-<p align="center">
-  <a href="https://rameshportfolio-sooty.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-Visit_Now-111827?style=for-the-badge" alt="Explore Portfolio"/>
-  </a>
-</p>
-
-My portfolio brings together my:
-
-| Section           | Highlights                                    |
-| ----------------- | --------------------------------------------- |
-| 👨‍💻 About       | My journey, interests, and development focus  |
-| 🛠️ Skills        | Technologies and tools I work with            |
-| 🚀 Projects       | Selected projects and technical work          |
-| 💼 Experience     | Practical experience and contributions        |
-| 🏆 Achievements   | Leadership, competitions, and accomplishments |
-| 📜 Certifications | Professional learning and certifications      |
-| 🎓 Education      | Academic background                           |
-| 📄 Resume         | Downloadable professional resume              |
-| 📬 Contact        | Ways to connect with me                       |
+* 🔭 Building and improving real-world web applications
+* 🌱 Strengthening **Data Structures & Algorithms**
+* ⚛️ Developing modern applications with **React**
+* 🧠 Exploring **AI-powered solutions**
+* ☁️ Learning better cloud and deployment practices
+* 💡 Looking for opportunities to solve meaningful engineering problems
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
+
+## 🌐 Explore My Portfolio
+
+<a href="https://rameshportfolio-sooty.vercel.app/">
+
+<img src="https://img.shields.io/badge/🚀%20ENTER%20MY%20PORTFOLIO-111827?style=for-the-badge&logoColor=white" alt="Enter Portfolio"/>
+
+</a>
+
+<br/><br/>
+
+**A complete overview of my skills, projects, experience, achievements, certifications and resume.**
+
+</div>
+
+---
+
+# 🛠️ Technical Arsenal
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### 🔧 Backend & Data
+### 🔧 Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
 </p>
 
-> **Note:** My technology stack continues to evolve as I learn and build new projects.
+---
+
+# 🚀 Featured Work
+
+## 🌐 Developer Portfolio
+
+**My personal developer portfolio built to showcase my technical journey and professional profile.**
+
+### Highlights
+
+* 🎨 Modern responsive UI
+* 🌙 Theme support
+* 📱 Mobile-friendly design
+* 📄 Integrated resume experience
+* 🏆 Achievements & certifications
+* 💼 Experience showcase
+* 🚀 Production deployment
+* 🧩 Component-based React architecture
+
+**Tech:** `React` `Vite` `JavaScript` `CSS`
+
+🔗 **Live:** https://rameshportfolio-sooty.vercel.app/
 
 ---
 
-# 🚀 Featured Projects
+## 🤖 Transit AI
 
-The portfolio showcases selected projects that demonstrate my ability to move from **problem → solution → implementation → deployment**.
+An AI-focused project aimed at solving practical transportation-related challenges through modern software and intelligent technologies.
 
-### 🧠 Transit AI
+### Focus Areas
 
-An AI-focused project designed around solving practical transportation-related problems using modern software and intelligent technologies.
-
-**Focus:** AI • Web Development • Problem Solving
+`Artificial Intelligence` • `Web Development` • `Problem Solving` • `Real-World Applications`
 
 ---
 
-### 💻 Developer Portfolio
+## 💡 More Projects
 
-A responsive personal portfolio designed to present my:
+I continuously experiment with new technologies and build projects to strengthen my engineering skills.
 
-* Professional profile
-* Technical skills
-* Projects
-* Experience
-* Achievements
-* Certifications
-* Education
-* Resume
-
-**Built with:** React • Vite • JavaScript • CSS
-
-**Live:**
-👉 https://rameshportfolio-sooty.vercel.app/
-
----
-
-### 🏗️ More Projects
-
-Explore my GitHub repositories to see additional experiments, academic projects, and development work.
-
-👉 **GitHub:**
+👉 **Explore all repositories:**
 https://github.com/rameshshanmugam2005-hub
 
 ---
 
 # 🏆 Leadership & Achievements
 
-Beyond software development, I value **leadership, teamwork, discipline, and continuous improvement**.
+### 🏑 Hockey Leadership
 
-### 🏑 Sports Leadership
+Leadership outside technology has shaped how I approach engineering teams and challenging problems.
 
-* 🏆 Led the hockey team to a **Zonal Championship**
-* 🥈 Achieved **Divisional Runner-Up**
-* 👥 Coordinated training, tactics, and team activities
-* 🎯 Developed leadership, teamwork, and strategic planning skills
-* 🏑 Captained the **college house team**
+* 🏆 **Zonal Championship**
+* 🥈 **Divisional Runner-Up**
+* 👥 Led and coordinated team activities
+* 🎯 Planned training and game strategies
+* 🏑 **College House Team Captain**
 
-These experiences strengthened skills that directly translate into software engineering:
-
-**Leadership → Communication → Teamwork → Decision Making → Execution**
-
----
-
-# 📈 Development Philosophy
+### What I learned
 
 ```text
-Learn → Build → Break → Debug → Improve → Deploy → Repeat
+Leadership
+    ↓
+Communication
+    ↓
+Teamwork
+    ↓
+Decision Making
+    ↓
+Execution
 ```
 
-I believe the fastest way to improve as a developer is to **build real things**, encounter real problems, understand why they happen, and solve them systematically.
+These experiences taught me that strong engineering is not only about technical ability — it is also about **communication, ownership, discipline, and teamwork.**
 
 ---
 
-# 💡 What I'm Currently Working On
+# 📊 GitHub Statistics
 
-* 🔥 Strengthening Data Structures & Algorithms
-* ⚛️ Improving React development
-* 🌐 Building full-stack applications
-* 🧠 Exploring AI-powered applications
-* ☁️ Learning better deployment practices
-* 🧩 Improving software architecture and code quality
-* 🚀 Building projects that solve practical problems
+<div align="center">
 
----
+<a href="https://github.com/rameshshanmugam2005-hub">
 
-# 📊 GitHub Activity
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rameshshanmugam2005-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Ramesh's GitHub Stats"/>
 
-<p align="center">
-  <a href="https://github.com/rameshshanmugam2005-hub">
-    <img src="https://github-readme-stats.vercel.app/api?username=rameshshanmugam2005-hub&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Ramesh's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/rameshshanmugam2005-hub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshshanmugam2005-hub&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
-  </a>
-</p>
+</a>
+
+<a href="https://github.com/rameshshanmugam2005-hub">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshshanmugam2005-hub&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+
+</a>
+
+</div>
 
 ---
 
-# 🧩 Repository Structure
+# 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/rameshshanmugam2005-hub">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshshanmugam2005-hub&theme=github-compact&hide_border=true&area=true" width="95%" alt="Ramesh's GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+> 💡 **If the activity graph doesn't load immediately**, refresh the GitHub README after a few minutes. Third-party dynamic cards depend on external services and GitHub API availability.
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/rameshshanmugam2005-hub">
+
+<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&hide_border=true" alt="GitHub Streak"/>
+
+</a>
+
+</div>
+
+---
+
+# 🧠 My Development Mindset
+
+```text
+                 ┌──────────────┐
+                 │    LEARN     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    BUILD     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    DEBUG     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │   IMPROVE     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    DEPLOY    │
+                 └──────┬───────┘
+                        ↓
+                    🔁 REPEAT
+```
+
+> **Every project is an opportunity to become a better engineer.**
+
+---
+
+# 🏗️ Portfolio Architecture
+
+```text
+PORTFOLIO
+│
+├── 🎨 Frontend
+│   ├── React
+│   ├── Components
+│   ├── Context
+│   └── Responsive UI
+│
+├── 📊 Portfolio Data
+│   └── Project / Experience / Skills
+│
+├── 📄 Resume System
+│   ├── PDF Viewer
+│   ├── Resume Modal
+│   └── PDF Generation
+│
+├── 🖼️ Assets
+│   ├── Images
+│   └── Documents
+│
+└── 🚀 Deployment
+    ├── GitHub
+    └── Vercel
+```
+
+---
+
+# 📂 Project Structure
 
 ```text
 PORTFOLIO/
@@ -191,7 +274,7 @@ PORTFOLIO/
 ├── public/
 │   ├── images/
 │   ├── resume.pdf
-│   └── other public assets
+│   └── other assets
 │
 ├── src/
 │   ├── components/
@@ -204,6 +287,7 @@ PORTFOLIO/
 │   │   ├── FeaturedProject.jsx
 │   │   ├── Hero.jsx
 │   │   ├── Navbar.jsx
+│   │   ├── PdfViewer.jsx
 │   │   ├── Profiles.jsx
 │   │   ├── ProjectCaseStudy.jsx
 │   │   ├── ResumeCTA.jsx
@@ -237,129 +321,137 @@ PORTFOLIO/
 
 # ⚡ Run Locally
 
-### 1️⃣ Clone the repository
+### 1. Clone
 
 ```bash
 git clone https://github.com/rameshshanmugam2005-hub/PORTFOLIO.git
 ```
 
-### 2️⃣ Navigate into the project
+### 2. Enter project
 
 ```bash
 cd PORTFOLIO
 ```
 
-### 3️⃣ Install dependencies
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4️⃣ Start the development server
+### 4. Start development server
 
 ```bash
 npm run dev
 ```
 
-The application will be available at:
-
-```text
-http://localhost:5173
-```
-
----
-
-# 🏗️ Build for Production
-
-Create a production build with:
+### 5. Build production version
 
 ```bash
 npm run build
-```
-
-Preview the production build locally:
-
-```bash
-npm run preview
 ```
 
 ---
 
 # 🚀 Deployment
 
-This portfolio is deployed using **Vercel**.
-
-### Deployment workflow
+The portfolio is deployed using **Vercel**.
 
 ```text
-Local Development
-       ↓
-   Git Commit
-       ↓
-   GitHub Push
-       ↓
-     Vercel
-       ↓
- Production Website 🚀
+        👨‍💻 Development
+              │
+              ▼
+         💻 VS Code
+              │
+              ▼
+         📦 Git Commit
+              │
+              ▼
+          🐙 GitHub
+              │
+              ▼
+          ▲ Vercel
+              │
+              ▼
+       🌐 Production
 ```
 
-🌐 **Live Website:**
-https://rameshportfolio-sooty.vercel.app/
+### 🔗 Live Portfolio
+
+<div align="center">
+
+<a href="https://rameshportfolio-sooty.vercel.app/">
+
+<img src="https://img.shields.io/badge/🌐%20rameshportfolio--sooty.vercel.app-Visit%20Live%20Site-000000?style=for-the-badge" alt="Live Portfolio"/>
+
+</a>
+
+</div>
 
 ---
 
 # 🔄 Updating the Portfolio
 
-After making changes in VS Code:
+After making changes:
 
 ```bash
 git add .
+```
+
+```bash
 git commit -m "Update portfolio"
+```
+
+```bash
 git push origin main
 ```
 
-Vercel can then build and deploy the latest version from the repository.
+---
+
+# 🎯 Career Goals
+
+I'm working toward becoming a strong **Software Engineer** capable of:
+
+* 🧠 Solving complex technical problems
+* 🏗️ Designing scalable applications
+* ⚛️ Building high-quality user experiences
+* 🔌 Developing reliable APIs
+* ☁️ Deploying production applications
+* 🤝 Working effectively in engineering teams
+* 📚 Continuously learning and improving
 
 ---
 
-# 📬 Let's Connect
+# 🤝 Let's Connect
 
-I'm always interested in:
-
-* 💼 Software engineering opportunities
-* 🤝 Collaborating on interesting projects
-* 🚀 Building practical products
-* 🧠 Learning from experienced developers
-* 🌱 Open-source contributions
-* 💡 Discussing technology and ideas
-
-<p align="center">
+<div align="center">
 
 <a href="https://rameshportfolio-sooty.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/rameshshanmugam2005-hub">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/🐙%20GitHub-Follow-181717?style=for-the-badge" alt="GitHub"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⭐ Support
+<div align="center">
 
-If you find my projects interesting, consider giving the repository a ⭐.
+### 💻 Build with purpose.
 
-It helps me stay motivated to keep learning, building, and improving.
+### 🧠 Learn continuously.
 
----
+### 🚀 Ship boldly.
 
-<p align="center">
+<br/>
 
-### 🚀 Learn. Build. Solve. Improve.
+**⭐ If you find my work interesting, consider starring a repository!**
 
-**Thanks for visiting my portfolio repository!**
+<br/>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
+</div>
