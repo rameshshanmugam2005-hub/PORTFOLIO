@@ -156,41 +156,6 @@ These experiences taught me that strong engineering is not only about technical 
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/rameshshanmugam2005-hub">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rameshshanmugam2005-hub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Ramesh's GitHub Stats"/>
-
-</a>
-
-<a href="https://github.com/rameshshanmugam2005-hub">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshshanmugam2005-hub&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
-
-</a>
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/rameshshanmugam2005-hub">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshshanmugam2005-hub&theme=github-compact&hide_border=true&area=true" width="95%" alt="Ramesh's GitHub Activity Graph"/>
-
-</a>
-
-</div>
-
-> 💡 **If the activity graph doesn't load immediately**, refresh the GitHub README after a few minutes. Third-party dynamic cards depend on external services and GitHub API availability.
-
----
 
 # 🔥 Contribution Streak
 
